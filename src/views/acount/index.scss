@@ -1,0 +1,21 @@
+.account {
+    width: 100vw;
+    height: 100vh;
+    background-color: #282828;
+    .other {
+        color: #fff;
+    }
+}
+.form-wrap {
+    width: 285px;
+    margin: auto;
+    padding-top: 300px;
+    .ant-col  {
+        width: 100%;
+    }
+    label {
+        display: block;
+        font-size: 14px;
+        color: #fff;
+    }
+}
